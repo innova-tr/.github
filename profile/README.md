@@ -1,6 +1,6 @@
 # 🚀 Innova Bilişim Çözümleri
 
-![Gelecek İnnova ile şekillenecek](channels4_banner.jpg)
+![Gelecek İnnova ile şekillenecek](innova_cover.jpeg)
 
 **Geleceği Tasarlayan Yazılım ve Teknoloji Çözümleri**
 
