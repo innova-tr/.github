@@ -1,5 +1,7 @@
 # 🚀 Innova Bilişim Çözümleri
 
+![Gelecek İnnova ile şekillenecek](channel4_banner.jpg)
+
 **Geleceği Tasarlayan Yazılım ve Teknoloji Çözümleri**
 
 Innova Bilişim Çözümleri, kurumsal müşterilere yönelik yüksek ölçeklenebilir, güvenli ve sürdürülebilir yazılım sistemleri geliştiren bir teknoloji şirketidir. Finans, telekomünikasyon, havacılık ve kamu sektörlerinde uçtan uca dijital dönüşüm çözümleri sunmaktadır.
