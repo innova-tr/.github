@@ -1,4 +1,4 @@
-# 🚀 İnnova Bilişim Çözümleri
+# İnnova Bilişim Çözümleri
 
 ![Gelecek İnnova ile şekillenecek](innova_cover.jpeg)
 
